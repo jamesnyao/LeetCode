@@ -1,7 +1,7 @@
-## LeetCode
-# My LeetCode profile is: https://leetcode.com/jamesnyao/
+# LeetCode
+## My LeetCode profile is: https://leetcode.com/jamesnyao/
 
-# Current problems solved:
+## Current problems solved:
 
 Easy: 7
 
