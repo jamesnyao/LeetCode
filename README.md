@@ -1,7 +1,7 @@
 ## My LeetCode profile is: https://leetcode.com/jamesnyao/
 
 Current problems solved: <br/>
-Easy: 7 <br/>
+Easy: 8 <br/>
 Medium: 2 <br/>
 Hard: 0 <br/>
 
